@@ -47,7 +47,6 @@ This GitHub repository contains the source code and documentation for a smart tr
 
 Hate and Love❤️❤️
 
-* []()
 
 ## Getting Started
 
