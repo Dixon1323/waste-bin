@@ -63,7 +63,7 @@ Arduino IDE, uno , 2G enabled sim( networks other than jio😂 )
 
 To get started with the Smart Hydroponics System, follow these steps:
 
-1. Clone the repository: https://github.com/Dixon1323/waste-bin.git
+1. Clone the repository: `https://github.com/Dixon1323/waste-bin.git``
 2. Install the required libraries.
 3. Configure the GSM module and other settings.
 4. Run the main script to start the system.
