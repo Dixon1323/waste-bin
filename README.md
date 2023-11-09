@@ -31,7 +31,7 @@
 
 ## About The Project
 
-![Screen Shot](https://mega.nz/fm/9Y01VCSA)
+![Screen Shot](https://freeimage.host/i/JBGGFe4)
 
 This GitHub repository contains the source code and documentation for a smart trash bin project with advanced features. The project aims to revolutionize waste management by incorporating SMS capabilities and automatic lid opening functionality.⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬⁬
 1. SMS Integration: The smart trash bin is equipped with a GSM module that allows it to send SMS notifications to the user's mobile phone. Users will receive real-time updates on the trash bin's status, such as when it is full or needs maintenance.
